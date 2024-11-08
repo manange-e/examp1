@@ -1,0 +1,12 @@
+[submodule "examp2"]
+	path = examp2
+	url = https://github.com/manange-e/examp2.git
+[submodule "examp3"]
+	path = examp3
+	url = https://github.com/manange-e/examp3.git
+[submodule "examp4"]
+	path = examp4
+	url = https://github.com/manange-e/examp4.git
+[submodule "examp5"]
+	path = examp5
+	url = https://github.com/manange-e/examp5.git
